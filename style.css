@@ -1,0 +1,20 @@
+body{
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%); 
+}
+
+.col-md-6{
+    border: 5px solid black; 
+    margin-top: 150px !important;
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%)
+}
+
+button{
+    margin: 20px !important;
+    border: 1.5px solid black !important;
+}
+
+h1{
+    font-family: Arial;
+    font-weight: bolder !important;
+    margin: 20px !important;
+}
